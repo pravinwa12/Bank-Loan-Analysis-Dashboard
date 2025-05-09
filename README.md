@@ -2,7 +2,9 @@
 This Bank Loan Report dashboard provides a comprehensive overview of loan applications and financial performance. A total of 38.6K loan applications were received, with $435.8M funded and $473.1M received. Most loans were for debt consolidation, with a preference for 36-month terms. Applications were highest among individuals with 10+ years of employment and primarily from renters and mortgage holders. The average interest rate stood at 12%, and the average DTI was 13.3%, showing positive growth across all key metrics.
 
 ## Dataset Used
-- <a href="https://github.com/pravinwa12/HR-Analytics-Dashboard/blob/main/HR%20Data.xlsx">Dataset</a>
+- <a href="https://github.com/pravinwa12/Bank-Loan-Analysis-Dashboard/blob/main/financial_loan.csv">Dataset</a>
+#### Tools Used
+Power BI, SQL Server, etc.
 
 
 ## 🔹 KPIs (Key Performance Indicators)
@@ -86,5 +88,23 @@ Applications mostly from:
 Renters: 18K
 
 Mortgage Holders: 17K
+
+### Dashboards
+#### Summary
+- <a href="https://github.com/pravinwa12/Bank-Loan-Analysis-Dashboard/blob/main/Overview%20Image.png">Dataset</a>
+
+#### Details
+- <a href="https://github.com/pravinwa12/Bank-Loan-Analysis-Dashboard/blob/main/Details%20Image.png">Dataset</a>
+
+## Dashboard Interaction
+### Summary Dashboard
+![Summary Image](https://github.com/user-attachments/assets/f6cb5cb2-2193-46e0-bb5c-dfaa90035012)
+
+### Details Dashboard
+![Details Image](https://github.com/user-attachments/assets/16e2b1f2-213a-41bd-9b20-97250dd252e5)
+
+
+
+
 
 
